@@ -1,4 +1,12 @@
-### Hi there 👋
+###  自我介绍
+
+姓名：周勇铨
+
+学校：广东工业大学
+
+专业：软件工程
+
+爱好：看书，打篮球
 
 <!--
 **ZHOU524/ZHOU524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
